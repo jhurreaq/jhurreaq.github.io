@@ -28,12 +28,12 @@ You can find a list of my publications on [Google Scholar](https://scholar.googl
 
 ## Scholarships, awards, honours
 
-2020 | Award for an Outstanding Performance and Collaboration of a Visiting Research - Faculty of MechanicalEngineering - LUH - Germany.
+*2020* | Award for an Outstanding Performance and Collaboration of a Visiting Research - Faculty of MechanicalEngineering - LUH - Germany.
 
-2016 | COLCIENCIAS Doctoral Scholarship - grant 727/2015 - Colombian Government.
+*2016* | COLCIENCIAS Doctoral Scholarship - grant 727/2015 - Colombian Government.
 
-2014 | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
+*2014* | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
 
-2013 | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Government -Colombia.
+*2013* | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Government -Colombia.
 
 
