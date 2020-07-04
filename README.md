@@ -14,8 +14,14 @@ To better understand the complexity of the solution of PDE/ODEs – kMC multisca
 In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. What captures my interest the most is the possibility to work with dynamic modeling approaches able to capture the intrinsic stochasticity and multiscale nature of socio-political and economic problems such as the Covid-19 pandemic and its potential to support rational policy-making.
 
 
-## Research interests
+## Recent publications
 
-My current research interests are placed on the mathematical modeling of complex uncertain nonlinear dynamical systems.
+Urrea-Quintero, J. H., Marino, M., Hernández, H., & Ochoa, S. (2020). Multiscale modeling of a free-radical emulsion polymerization process: Numerical approximation by the Finite Element Method. _Computers & Chemical Engineering_, 106974.
+
+Urrea-Quintero, J. H., Hernández, H., & Ochoa, S. (2020). Towards a controllability analysis of multiscale systems: application of the set-theoretic approach to a semi-batch emulsion polymerization process. _Computers & Chemical Engineering_, 106833.
+
+Urrea-Quintero, J. H., Ochoa, S., & Hernández, H. (2019). A reduced-order multiscale model of a free-radical semibatch emulsion polymerization process. _Computers & Chemical Engineering_, 127, 11-24.
+
+You can find a list of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=vxlllIsAAAAJ&view_op=list_works&sortby=pubdate).
 
 
