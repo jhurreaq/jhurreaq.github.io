@@ -2,16 +2,21 @@ I am a researcher interested in applied mathematics. In particular, I do researc
 
 ## About me
 
-I received a Bachelor as Control Engineer from Universidad Nacional de Colombia in 2013 and a Master’s degree in Engineering from Universidad de Antioquia in 2017. Currently, I am about to successfully complete a Ph.D. degree in Chemical Engineering at Universidad de Antioquia Colombia. 
+I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013 and my Master’s degree in Engineering from Universidad de Antioquia in 2017. Currently, I am about to successfully complete a Ph.D. degree in Chemical Engineering at Universidad de Antioquia Colombia.
 
 
-For four years, I was working on the development of multiscale models of nonlinear dynamical systems. I developed a three-scale dynamical model that describes the dynamics of the synthesis of core/shell type polymers in batch polymerization reactors and reduced order approximations. This development led me to the study of PDE/ODEs – kMC type multiscale models which are powerful to describe a wide range of complex dynamical systems, e.g., human tissue-like materials and lithium-ion batteries.
+In the last four year I have worked on the development of multiscale models of nonlinear dynamical systems. I developed a three-scale dynamical model that describes the dynamics of the synthesis of core/shell type polymers in batch polymerization reactors and reduced order approximations. This development led me to the study of PDE/ODEs – kMC type multiscale models which are powerful to describe a wide range of complex dynamical systems, e.g., human tissue-like materials and lithium-ion batteries.
 
 
-To better understand the complexity of the solution of PDE/ODEs – kMC multiscale models, I was working, for 18 months, as a guest researcher, at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. 
+For almost 2 years I was a guest researcher at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany.
 
 
-In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. What captures my interest the most is the possibility to work with dynamic modeling approaches able to capture the intrinsic stochasticity and multiscale nature of socio-political and economic problems such as the Covid-19 pandemic and its potential to support rational policy-making.
+In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. 
+
+
+## Ongoing research
+
+My current research focuses in assessing COVID-19 spreading and providing time-critical information for control and mitigation. Dynamic modeling approaches combining Bayesian inference and compartmental models are some of the analytical tools used to capture the intrinsic stochasticity and multiscale nature of the phenomenon, infer and derive implications to support rational policymaking.
 
 
 ## Recent publications
