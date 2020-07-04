@@ -11,6 +11,9 @@ For four years, I was working on the development of multiscale models of nonline
 To better understand the complexity of the solution of PDE/ODEs – kMC multiscale models, I was working, for 18 months, as a guest researcher, at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. 
 
 
+In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. What captures my interest the most is the possibility to work with dynamic modeling approaches able to capture the intrinsic stochasticity and multiscale nature of socio-political and economic problems such as the Covid-19 pandemic and its potential to support rational policy-making.
+
+
 ## Research interests
 
 My current research interests are placed on the mathematical modeling of complex uncertain nonlinear dynamical systems.
