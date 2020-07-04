@@ -1,4 +1,4 @@
-I am a researcher interested in applied mathematics. In particular, I do research to better understand why and how complexity emerge in real-world systems through frameworks that integrate multi-scale aspects into consistent tractable mathematical models. To that end, I combine probability theory, stochastic simulation algorithms and deterministic approaches as ordinary or partial differential equations.
+I am a researcher interested in applied mathematics. I do research to better understand why and how complexity emerge in real-world systems through frameworks that integrate multi-scale aspects into consistent tractable mathematical models. To that end, I combine probability theory, stochastic simulation algorithms and deterministic approaches as ordinary or partial differential equations.
 
 ## About me
 I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013 and my Master’s degree in Engineering from Universidad de Antioquia in 2017. Currently, I am about to successfully complete my Ph.D. degree in Chemical Engineering at Universidad de Antioquia Colombia.
@@ -28,12 +28,12 @@ You can find a list of my publications on [Google Scholar](https://scholar.googl
 
 ## Scholarships, awards, honours
 
-*2020* | Award for an Outstanding Performance and Collaboration of a Visiting Research - Faculty of MechanicalEngineering - LUH - Germany.
+**2020** | Award for an Outstanding Performance and Collaboration of a Visiting Researcher - Faculty of MechanicalEngineering - LUH - Germany.
 
-*2016* | COLCIENCIAS Doctoral Scholarship - grant 727/2015 - Colombian Government.
+**2016** | COLCIENCIAS Doctoral Scholarship - grant 727/2015 - Colombian Government.
 
-*2014* | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
+**2014** | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
 
-*2013* | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Government -Colombia.
+**2013** | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Departmen Government -Colombia.
 
 
