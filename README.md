@@ -8,11 +8,7 @@ I received a Bachelor as Control Engineer from Universidad Nacional de Colombia 
 For four years, I was working on the development of multiscale models of nonlinear dynamical systems. I developed a three-scale dynamical model that describes the dynamics of the synthesis of core/shell type polymers in batch polymerization reactors and reduced order approximations. This development led me to the study of PDE/ODEs – kMC type multiscale models which are powerful to describe a wide range of complex dynamical systems, e.g., human tissue-like materials and lithium-ion batteries.
 
 
-To better understand the complexity of the solution of PDE/ODEs – kMC multiscale models, I was working, for 18 months, as a guest researcher, at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. I formulated a consistent solution of these models using the finite element method, multiple approaches widely studied in the area of fluid mechanics and solid mechanics (for instance, algorithms to solve elasto-plastic models and advection-diffusion problems), as well as, model order reduction techniques based on the proper orthogonal decomposition method and its application in uncertainty propagation analyses.
-
-
-My latest work is related to the blood glucose level regulation in type 1 diabetes patients. The stability of the closed-loop strategies to regulate the blood glucose based on insulin pumps was analyzed using Lyapunov’s larger coefficients approach. Then, a Gaussian process surrogate model based numerical strategy was proposed to estimate stabilizing sets of PID controller tackling uncertain nonlinear systems. The result of the random analysis is a stochastic set providing probability information regarding the capabilities of a PID controller to stabilize the non-linear system.
-
+To better understand the complexity of the solution of PDE/ODEs – kMC multiscale models, I was working, for 18 months, as a guest researcher, at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. 
 
 
 ## Research interests
