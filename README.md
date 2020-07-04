@@ -1,3 +1,6 @@
 ## Jorge-Humberto Urrea-Quintero
 
-![ProfilePhoto](/images/20190514_175020_Small.jpg | width=100)
+<p float="left">
+  <img src="/images/20190514_175020_Small.jpg" height="450" />
+</p>
+
