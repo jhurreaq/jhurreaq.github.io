@@ -38,4 +38,4 @@ You can find a list of my publications on [Google Scholar](https://scholar.googl
 
 **2014** | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
 
-**2013** | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Departmen Government -Colombia.
+**2013** | Undergraduate Students Award Involved in High Impact Research Activities - Antioquia Department Government -Colombia.
