@@ -15,7 +15,7 @@ In the long term, I envisage myself significantly contributing to the field of m
 
 ## Ongoing research
 
-I am a researcher who recently joined the group of Viola Priesemann at the Max Planck Institute for Dynamics and Self-Organization in Göttingen.
+I recently joined the group of Viola Priesemann at the Max Planck Institute for Dynamics and Self-Organization in Göttingen.
 
 My current research focuses in assessing COVID-19 spreading and providing time-critical information for control and mitigation. Dynamic modeling approaches combining Bayesian inference and compartmental models are some of the analytical tools used to capture the intrinsic stochasticity and multiscale nature of the phenomenon, infer and derive implications to support rational policy-making.
 
