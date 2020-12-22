@@ -1,5 +1,5 @@
 ## About me
-I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013, and my Master’s degree in Engineering from Universidad de Antioquia in 2017. <!---, and my Ph.D. degree in Chemical Engineering at Universidad de Antioquia Colombia in 2020.-->
+I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013, and my Master’s degree in Engineering from Universidad de Antioquia in 2017.
 
 ## Research roadmap
 
