@@ -36,7 +36,7 @@ You can find a list of my publications on [Google Scholar](https://scholar.googl
 
 **2020** | Award for an Outstanding Performance and Collaboration of a Visiting Researcher - Faculty of MechanicalEngineering - LUH - Germany.
 
-**2016** | COLCIENCIAS Doctoral Scholarship - grant 727/2015 - Colombian Government.
+**2016** | COLCIENCIAS - grant 727/2015 - Colombian Government.
 
 **2014** | “Estudiante Instructor” Scholarship for Master Degree - Universidad de Antioquia - Colombia.
 
