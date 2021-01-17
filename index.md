@@ -7,6 +7,8 @@ Since 2016 I had been working on the development of multiscale models of nonline
 
 For almost 2 years I was a guest researcher at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. As foremost outcome I formulated a consistent solution of PDE/ODEs – kMC multiscale models using the finite element method, multiple approaches widely studied in the area of fluid mechanics and solid mechanics (for instance, algorithms to solve elasto-plastic models and advection-diffusion problems), as well as, model order reduction techniques based on the proper orthogonal decomposition method and its application in uncertainty propagation analyses.
 
+The latest development at IKM I was involved in was related to the blood glucose level regulation in type 1 diabetes patients. We analyzed the stability of the closed-loop strategies to regulate the blood glucose based on insulin pumps. A Gaussian process based surrogate model was proposed to estimate stabilizing sets of PID controllers tackling uncertain nonlinear systems. The result of the random analysis is a stochastic set providing probability information regarding the capabilities of a PID controller to stabilize the non-linear system.
+
 In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. 
 
 ## My research interests
