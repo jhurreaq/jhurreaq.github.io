@@ -9,7 +9,7 @@ For almost 2 years I was a guest researcher at the Institute of Continuous Mecha
 
 The latest development at IKM I was involved in was related to the blood glucose level regulation in type 1 diabetes patients. We analyzed the stability of the closed-loop strategies to regulate the blood glucose based on insulin pumps. A Gaussian process based surrogate model was proposed to estimate stabilizing sets of PID controllers tackling uncertain nonlinear systems. The result of the random analysis is a stochastic set providing probability information regarding the capabilities of a PID controller to stabilize the non-linear system.
 
-In the long term, I envisage myself significantly contributing to the field of modeling complex multiscale systems. 
+In the long term, I envisage myself significantly contributing to answer the longstanding question of: how physics-based models can benefit from machine learning techniques to minimize models and real systems mismatches by accurately quantifying their uncertainty sources?   
 
 ## My research interests
 
