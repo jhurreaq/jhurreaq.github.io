@@ -1,5 +1,8 @@
 ## About me
-I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013, and my Master’s degree in Engineering from Universidad de Antioquia in 2017.
+
+I am a researcher who recently joined the group of Professor Udo Nackenhorst at the Institute of Mechanics and Computational Mechanics [(IBNM)](https://www.ibnm.uni-hannover.de/en/) in the Leibniz Universität Hannover. I received my Bachelor in Control Engineer at Universidad Nacional de Colombia in 2013, my Master’s degree in Engineering from Universidad de Antioquia in 2017 and my Ph.D. degree in Chemical Engineering at Universidad de Antioquia Colombia in 2020.
+
+I have a strong background in applied mathematics and computational methods in engineering. My current research interests are placed on contributing to answering the longstanding question of: how physics-based models can benefit from machine learning techniques to minimize models and real systems mismatches by accurately quantifying their uncertainty sources?
 
 ## Research roadmap
 
@@ -8,8 +11,6 @@ Since 2016 I had been working on the development of multiscale models of nonline
 For almost 2 years I was a guest researcher at the Institute of Continuous Mechanics (IKM), Leibniz Universität Hannover, Germany. As foremost outcome I formulated a consistent solution of PDE/ODEs – kMC multiscale models using the finite element method, multiple approaches widely studied in the area of fluid mechanics and solid mechanics (for instance, algorithms to solve elasto-plastic models and advection-diffusion problems), as well as, model order reduction techniques based on the proper orthogonal decomposition method and its application in uncertainty propagation analyses.
 
 The latest development at IKM I was involved in was related to the blood glucose level regulation in type 1 diabetes patients. We analyzed the stability of the closed-loop strategies to regulate the blood glucose based on insulin pumps. A Gaussian process based surrogate model was proposed to estimate stabilizing sets of PID controllers tackling uncertain nonlinear systems. The result of the random analysis is a stochastic set providing probability information regarding the capabilities of a PID controller to stabilize the non-linear system.
-
-In the long term, I envisage myself significantly contributing to answer the longstanding question of: how physics-based models can benefit from machine learning techniques to minimize models and real systems mismatches by accurately quantifying their uncertainty sources?   
 
 ## My research interests
 
