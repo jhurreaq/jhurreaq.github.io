@@ -2,5 +2,9 @@ title: Jorge-Humberto Urrea-Quintero
 
 logo: /images/20190514_175020_Small.jpg
 
-theme: jekyll-theme-dark-minimal
+# theme: jekyll-theme-dark-minimal
 # theme: jekyll-theme-minimal
+
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
