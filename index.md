@@ -1,6 +1,6 @@
 ## About me
 
-I am a researcher who recently joined the group of Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)]([https://www.tu-braunschweig.de/irmb](https://www.tu-braunschweig.de/irmb/ddm](https://www.tu-braunschweig.de/iam)), which is part of the Technische Universität Braunschweig.
+I am a researcher who recently joined the group of Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)](https://www.tu-braunschweig.de/iam), which is part of the Technische Universität Braunschweig.
 
 I earned my Bachelor's degree in Control Engineering from Universidad Nacional de Colombia in 2013. Subsequently, I received both my Master's and Ph.D. degrees in Engineering and Chemical Engineering, respectively, from Universidad de Antioquia — the former in 2017 and the latter in 2020.
 
@@ -36,7 +36,7 @@ The last project I participated in at IKM concerned the regulation of blood gluc
 
 From April 2021 to July 2023, I conducted research at the Institute of Mechanics and Computational Mechanics (IBNM), Leibniz Universität Hannover, Germany, under the guidance of Prof. Udo Nackenhorst. My work at IBNM revolved around uncertainty quantification and the application of numerical methods to problems in continuum mechanics. Random fields representation by Karhunen-Loève expansion, uncertainty propagation through polynomial Chaos expansion, hybrid physics-based and data-driven dynamical systems identification using kernel-based methods applied to high-dimensional (non)linear structural problems, and modeling of functional materials with applications in biomechanics were the main topics of my research at the institute.
 
-Since August 2023, I joined the Data-Driven Modeling of Mechanical Systems group led by Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)]([https://www.tu-braunschweig.de/irmb](https://www.tu-braunschweig.de/irmb/ddm](https://www.tu-braunschweig.de/iam)), which is a part of Technische Universität Braunschweig. My primary goal is the uncertainty quantification and surrogate modeling of complex nonlinear multiphysics problems. We aim to explore the capabilities of machine learning methods in the development of digital twins for optimization, calibration, and monitoring of complex engineering problems, such as deep geological repositories for radioactive waste disposal.
+Since August 2023, I joined the Data-Driven Modeling of Mechanical Systems group led by Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)](https://www.tu-braunschweig.de/iam), which is a part of Technische Universität Braunschweig. My primary goal is the uncertainty quantification and surrogate modeling of complex nonlinear multiphysics problems. We aim to explore the capabilities of machine learning methods in the development of digital twins for optimization, calibration, and monitoring of complex engineering problems, such as deep geological repositories for radioactive waste disposal.
 
 ## My research interests
 
