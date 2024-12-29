@@ -1,6 +1,6 @@
 ## About me
 
-I am a researcher who recently joined the group of Jun.-Prof. Dr.-Ing. Henning Wessels at the Institute for Computational Modeling in Civil Engineering [(IRMB)](https://www.tu-braunschweig.de/irmb), which is part of the Technische Universität Braunschweig.
+I am a researcher who recently joined the group of Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)]([https://www.tu-braunschweig.de/irmb](https://www.tu-braunschweig.de/irmb/ddm)), which is part of the Technische Universität Braunschweig.
 
 I earned my Bachelor's degree in Control Engineering from Universidad Nacional de Colombia in 2013. Subsequently, I received both my Master's and Ph.D. degrees in Engineering and Chemical Engineering, respectively, from Universidad de Antioquia — the former in 2017 and the latter in 2020.
 
@@ -10,7 +10,7 @@ I have a strong background in applied mathematics and computational methods in e
 
 **Self-learning methodology for an emplacement section of a deep geological repository (SEMOTI)**
 
-In this project, the potential of machine learning (ML) in modeling final repository systems/deep storage systems will be investigated. The objective is to adapt advanced ML algorithms for geomechanical applications. In particular, we are interested in the design optimization and monitoring of deep geological repositories for radioactive waste disposal. A key component of the approach is the utilization of Gaussian processes as surrogate models for these repositories.
+In this project, the potential of machine learning (ML) in modeling repository systems/deep storage systems is investigated. The objective is to adapt advanced ML algorithms for geomechanical applications. In particular, we are interested in the design optimization and monitoring of deep geological repositories for radioactive waste disposal. A key component of the approach is the utilization of Gaussian processes as surrogate models for these repositories.
 
 The proposed research aims to investigate the applicability of ML methods for the underlying parametric mechanical models and to highlight the strengths and weaknesses of automation. The end goal is to achieve a more seamless integration between modeling and real-world data, thereby creating a comprehensive Digital Twin of a deep geological storage system.
 
@@ -28,15 +28,15 @@ This project delves into the exploration of various strategies for assembling hy
 
 ## Research roadmap
 
-Since 2016 I have been working on the development of multiscale models of nonlinear dynamical systems. This endeavour led me to study PDE/ODEs – kMC type multiscale models,which can accurately describe a broad range of complex dynamical systems, such as human tissue-like materials and lithium-ion batteries.
+Since 2016, I have been working on the development of multiscale models of nonlinear dynamical systems. This endeavor led me to study PDE/ODEs – kMC type multiscale models, which can accurately describe a broad range of complex dynamical systems, such as human tissue-like materials and lithium-ion batteries.
 
-For nearly two years, I served as a guest researcher at the Institute of Continuous Mechanics (IKM) at Leibniz Universität Hannover, Germany. One of my primary achievements was the formulation of a numerical solution for PDE/ODEs-kMC multiscale models. This solution was built upon the foundational principles of the finite element method and incorporated various approaches prevalent in fluid and solid mechanics. For example, it utilized algorithms to address elasto-plastic models and advection-diffusion problems. Additionally, I employed model order reduction techniques, specifically those based on the proper orthogonal decomposition method, and explored their applications in uncertainty propagation analyses.
+For nearly two years, I served as a guest researcher at the Institute of Continuous Mechanics (IKM) at Leibniz Universität Hannover, Germany. One of my primary achievements was the formulation of a numerical solution for PDE/ODEs-kMC multiscale models. This solution was built upon the foundational principles of the finite element method and incorporated various approaches prevalent in fluid and solid mechanics. For example, it utilized algorithms to address elastoplastic models and advection-diffusion problems. Additionally, I employed model order reduction techniques, specifically those based on the proper orthogonal decomposition method, and explored their applications in uncertainty propagation analyses.
 
 The last project I participated in at IKM concerned the regulation of blood glucose levels in type 1 diabetes patients. We evaluated the stability of closed-loop strategies that utilize insulin pumps to regulate blood glucose. We proposed a surrogate model based on Gaussian processes to estimate the stabilizing sets of PID controllers when addressing uncertain nonlinear systems. The outcome of this analysis was a stochastic set, which provides probabilistic insights into the ability of a PID controller to stabilize a non-linear system.
 
-From April 2021 to July 2023, I conducted research at the Institute of Mechanics and Computational Mechanics (IBNM), Lebniz Universität Hannover, Germany, under the guidance of Prof. Udo Nackenhorst. My work at IBNM revolved around uncertainty quantification and the application of numerical methods to problems in continuum mechanics. Random fields representation by Karhunen-Loève expansion, uncertainty propagation through polynomial Chaos expansion, hybrid physics-based and data-driven dynamical systems identification using kernel-based methods applied to high-dimensional (non)linear structural problems, and modeling of functional materials with applications in biomechanics were the main topics of my research at the institute.
+From April 2021 to July 2023, I conducted research at the Institute of Mechanics and Computational Mechanics (IBNM), Leibniz Universität Hannover, Germany, under the guidance of Prof. Udo Nackenhorst. My work at IBNM revolved around uncertainty quantification and the application of numerical methods to problems in continuum mechanics. Random fields representation by Karhunen-Loève expansion, uncertainty propagation through polynomial Chaos expansion, hybrid physics-based and data-driven dynamical systems identification using kernel-based methods applied to high-dimensional (non)linear structural problems, and modeling of functional materials with applications in biomechanics were the main topics of my research at the institute.
 
-Since August 2023, I joined the data-driven modeling group led by Jun.-Prof. Dr.-Ing. Henning Wessels at the Institute for Computational Modeling in Civil Engineering [(IRMB)](https://www.tu-braunschweig.de/irmb), which is a part of Technische Universität Braunschweig. My primary goal is the uncertainty quantification and surrogate modeling of complex nonlinear multiphysics problems. We aim to explore the capabilities of machine learning methods in the development of digital twins for optimization, calibration, and monitoring of complex engineering problems, such as deep geological repositories for radioactive waste disposal.
+Since August 2023, I joined the Data-Driven Modeling of Mechanical Systems group led by Prof. Dr.-Ing. Henning Wessels at the Institute of Applied Mechanics [(IAM)]([https://www.tu-braunschweig.de/irmb](https://www.tu-braunschweig.de/irmb/ddm)), which is a part of Technische Universität Braunschweig. My primary goal is the uncertainty quantification and surrogate modeling of complex nonlinear multiphysics problems. We aim to explore the capabilities of machine learning methods in the development of digital twins for optimization, calibration, and monitoring of complex engineering problems, such as deep geological repositories for radioactive waste disposal.
 
 ## My research interests
 
@@ -45,6 +45,10 @@ Since August 2023, I joined the data-driven modeling group led by Jun.-Prof. Dr.
 I am investigating the complexity of nonlinear dynamical systems. My goal is to gain a deeper understanding of how randomness or unpredictability naturally arises due to our inability to perceive all different scales or dimensions of real-world systems. Single-scale models often fall short, unable to encapsulate all the pertinent details of real nonlinear systems. This limitation can lead to discrepancies between model predictions and actual outcomes, highlighting the gaps in our understanding. On the other hand, multiscale approximations harness a broader spectrum of information about the system, providing deeper insights into the roots of its complexity. Nevertheless, given that many scales in nature remain beyond our observation, it is crucial to comprehend how this missing information affects the phenomena we can observe. To address this, I am delving into frameworks that seamlessly blend multiple scales into cohesive, manageable mathematical models. In pursuit of this, I combine probability theory, stochastic simulation algorithms, and deterministic methods such as ordinary or partial differential equations into a unified multiscale framework, aiming to represent the various scales from the micro to the macroscopic.
 
 ## Recent publications
+
+Agarwal, G., Urrea-Quintero, J. H., Wessels, H., & Wick, T. (2024). Parameter identification and uncertainty propagation of hydrogel coupled diffusion-deformation using POD-based reduced-order modeling. Computational Mechanics, 1-31.
+
+Urrea-Quintero, J. H., Marino, M., Wick, T., & Nackenhorst, U. (2024). A comparative analysis of transient finite-strain coupled diffusion-deformation theories for hydrogels. Archives of Computational Methods in Engineering, 1-34.
 
 Basmaji, A. A., Fau, A., Urrea-Quintero, J. H., Dannert, M. M., Voelsen, E., & Nackenhorst, U. (2022). Anisotropic multi-element polynomial chaos expansion for high-dimensional non-linear structural problems. Probabilistic Engineering Mechanics, 70, 103366.
 
@@ -56,9 +60,9 @@ Urrea-Quintero, J. H., Hernández, H., & Ochoa, S. (2020). Towards a controllabi
 
 You can find a list of my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=vxlllIsAAAAJ&view_op=list_works&sortby=pubdate).
 
-## Scholarships, awards, honours
+## Scholarships, awards, honors
 
-**2020** | Award for an Outstanding Performance and Collaboration of a Visiting Researcher - Faculty of MechanicalEngineering - Leibniz Universität Hannover - Germany.
+**2020** | Award for an Outstanding Performance and Collaboration of a Visiting Researcher - Faculty of Mechanical Engineering - Leibniz Universität Hannover - Germany.
 
 **2016** | COLCIENCIAS - Scholarship 727/2015 - Colombian Government.
 
